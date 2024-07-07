@@ -1,7 +1,7 @@
 ---
 title: Qi Liu
 role: Assistant Professor at the University of Hong Kong
-avatar_filename: avatar.png
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Natural Language Processing
