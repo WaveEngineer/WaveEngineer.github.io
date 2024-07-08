@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: Jan 2006
 type: widget_page
 ---
