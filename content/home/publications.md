@@ -23,7 +23,3 @@ design:
   view: citation
   columns: "1"
 ---
-
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
