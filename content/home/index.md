@@ -1,4 +1,3 @@
-@ -1,7 +0,0 @@
 ---
 # Homepage
 type: widget_page
