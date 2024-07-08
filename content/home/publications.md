@@ -1,6 +1,6 @@
 ---
 
-widget: Publications
+widget: publications
 title: Publications
 # This file represents a page section.
 headless: true

@@ -1,6 +1,6 @@
 ---
 
-widget: People
+widget: people
 title: People
 # This file represents a page section.
 headless: true
