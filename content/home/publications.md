@@ -2,7 +2,7 @@
 widget: pages
 widget_id: RECENT-POSTS
 headless: true
-weight: 40
+weight: 90
 title: Publications
 subtitle: ""
 content:
@@ -23,6 +23,10 @@ design:
   view: citation
   columns: "1"
 ---
+
+{{% callout note %}}
+Quickly discover relevant content by [filtering publications](./publication/).
+{{% /callout %}}
 
 {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
