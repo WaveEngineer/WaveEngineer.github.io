@@ -12,7 +12,7 @@ weight: 50
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Selected Awards'
 subtitle:
-
+style= "text-align: left;"
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
@@ -25,11 +25,11 @@ date_format: Jan 2006
 item:
   - certificate_url: 
     date_end: ''
-    date_start: '2023-02-01'
-    description: ''
-    organization: Forbes
+    date_start: '2021-02-01'
+    description: 'Awardee: Yuan Gao'
+    organization: IEEE Transactions on Instrumentation and Measurement
     organization_url: ''
-    title: Forbes 30 Under 30 Asia List
+    title: Outstanding Associate Editor
     url: ''
   - certificate_url: 
     date_end: ''
