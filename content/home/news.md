@@ -1,5 +1,5 @@
 ---
-widget: news
+widget: people
 title: News
 # This file represents a page section.
 headless: true
