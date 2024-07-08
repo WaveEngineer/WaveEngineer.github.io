@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Yuan Gao'
+    notice: 'copyright© {year} Yuan Gao'
     license:
       enable: true
       allow_derivatives: false
@@ -116,3 +116,5 @@ extensions:
 publications:
   date_format: January 2006
   citation_style: apa
+
+custom_css: ["css/custom.css"]
