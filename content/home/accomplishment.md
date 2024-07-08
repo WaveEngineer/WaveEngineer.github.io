@@ -12,7 +12,7 @@ weight: 50
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Selected Awards'
 subtitle:
-text-align: left
+
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
@@ -33,7 +33,7 @@ item:
     url: ''
   - certificate_url: 
     date_end: ''
-    date_start: '2022-01-01'
+    date_start: '2020-01-01'
     description: ''
     organization: AMiner
     organization_url: ''
