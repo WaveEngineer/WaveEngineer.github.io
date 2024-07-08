@@ -28,7 +28,7 @@ item:
   - certificate_url: 
     date_end: ''
     date_start: '2021-02-01'
-    description: 'Awardee: Yuan Gao'
+    description: 'Awardee: Yuan Gao t'
     organization: IEEE Transactions on Instrumentation and Measurement
     organization_url: ''
     title: Outstanding Associate Editor
