@@ -1,7 +1,7 @@
 ---
-
 widget: pages
 title: News
+
 # This file represents a page section.
 headless: true
 
@@ -14,7 +14,7 @@ date_format: Jan 2006
 
 design:
   columns: '1'
-
+show_date: false
 ---
 
 <p>09/2024 Dr. Yuan Gao officially joined the Great Bay University and found the Applied Electromagnetics Lab
