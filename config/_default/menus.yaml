@@ -7,14 +7,23 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+  - name: News
+    url: '#news'
+    weight: 20
   - name: People
     url: '#people'
-    weight: 20
-  - name: Publication
-    url: '#publication'
     weight: 30
-  - name: Award
-    url: '#accomplishment'
+  - name: Publications
+    url: '#publication'
     weight: 40
+  - name: Awards
+    url: '#accomplishment'
+    weight: 50
+  - name: Opening
+    url: '#openings'
+    weight: 60
+  - name: Contact
+    url: '#contact'
+    weight: 70
 
 

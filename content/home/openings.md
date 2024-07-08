@@ -1,11 +1,11 @@
 ---
 
-widget: People
-title: People
+widget: Openings
+title: Openings
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 60
 
 ---
