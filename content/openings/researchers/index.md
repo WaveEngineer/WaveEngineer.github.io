@@ -1,10 +1,9 @@
 ---
 title: Openings for researchers
-date: 2023-09-09
+date: 2024-07-07
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
-
+We have two researcher openings in our group, effective till filled
 <!--more-->
 
-Lorem ipsum dolor sit amet,
+特聘研究员招聘
