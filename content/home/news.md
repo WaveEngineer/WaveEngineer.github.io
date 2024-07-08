@@ -11,7 +11,7 @@ weight: 20
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
-show_date: false
+show_date: true
 design:
   columns: '1'
 
