@@ -25,5 +25,5 @@ main:
   - name: Contact
     url: '#contact'
     weight: 70
-
+show_date: false
 
