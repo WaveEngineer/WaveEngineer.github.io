@@ -12,7 +12,9 @@ weight: 20
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
+design:
+  columns: '1'
 
 ---
 
-<p>I am an assistant professor at
+<p>09/2024 Dr. Yuan Gao officially joined the Great Bay University and found the Applied Electromagnetics Lab
