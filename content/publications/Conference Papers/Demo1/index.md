@@ -2,8 +2,7 @@
 draft: false
 url_pdf: https://arxiv.org/pdf/1805.09076.pdf
 title: Constrained Graph Variational Autoencoders for Molecule Design
-publication_types:
-  - "1"
+publication_types: ['paper-conference']
 authors:
   - Qi Liu
   - Miltiadis Allamanis
