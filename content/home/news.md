@@ -15,4 +15,4 @@ design:
 
 ---
 
-<p>09/2024 Dr. Yuan Gao officially joined the Great Bay University and found the Applied Electromagnetics Lab
+<p>**09/2024** Dr. Yuan Gao officially joined the Great Bay University and found the Applied Electromagnetics Lab
