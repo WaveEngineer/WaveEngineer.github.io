@@ -1,6 +1,6 @@
 ---
 
-widget: Contact
+widget: pages
 title: Contact
 # This file represents a page section.
 headless: true

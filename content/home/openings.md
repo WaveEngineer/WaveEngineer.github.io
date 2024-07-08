@@ -1,6 +1,6 @@
 ---
 
-widget: Openings
+widget: pages
 title: Openings
 # This file represents a page section.
 headless: true
