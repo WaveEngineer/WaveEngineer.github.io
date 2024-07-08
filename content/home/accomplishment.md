@@ -12,7 +12,7 @@ weight: 50
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Selected Awards'
 subtitle:
-style= "text-align: left;"
+text-align: left
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
