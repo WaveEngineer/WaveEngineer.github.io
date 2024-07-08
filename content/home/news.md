@@ -1,5 +1,5 @@
 ---
-widget: accomplishment
+widget: accomplishments
 title: News
 
 # This file represents a page section.
