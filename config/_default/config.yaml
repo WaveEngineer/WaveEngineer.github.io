@@ -60,4 +60,4 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
-custom_css: ["css/custom.css"]
+show_date: false
