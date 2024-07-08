@@ -14,5 +14,5 @@ design:
   columns: '1'
 
 ---
-
+**10/2024** xxx is accepted by GBU. Welcome!
 **09/2024** Dr. Yuan Gao officially joined the Great Bay University and found the Applied Electromagnetics Lab
