@@ -12,16 +12,15 @@ sections:
       email: ygao@ieee.org
       phone: 18718672608
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: Songshanhu
+        city: Dongguan
+        region: Guangdong
+        postcode: '958055'
+        country: China
+        country_code: CN
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        latitude: '113.874209'
+        longitude: '22.91003'
       office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
