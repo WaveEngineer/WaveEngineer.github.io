@@ -5,5 +5,5 @@ avatar_filename: avatar.png
 bio: ""
 
 user_groups:
-          - Principal Investigators
+          - Mascot
 ---

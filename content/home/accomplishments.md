@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Selected Awards'
+title: 'Awards'
 subtitle:
 
 # Date format
@@ -26,43 +26,11 @@ item:
   - certificate_url: 
     date_end: ''
     date_start: '2021-02-01'
-    description: 'Awardee: Yuan Gao t'
+    description: 'Awardee: Yuan Gao'
     organization: IEEE Transactions on Instrumentation and Measurement
     organization_url: ''
     title: Outstanding Associate Editor
     url: ''
-  - certificate_url: 
-    date_end: ''
-    date_start: '2020-01-01'
-    description: ''
-    organization: AMiner
-    organization_url: ''
-    title: AMiner AI Most Influential Scholar
-    url: ''
-  - certificate_url: 
-    date_end: ''
-    date_start: '2019-09-01'
-    description: ''
-    organization: Google DeepMind
-    organization_url: ''
-    title: Google DeepMind Scholarship
-    url: '' 
-  - certificate_url: 
-    date_end: ''
-    date_start: '2017-08-01'
-    description: ''
-    organization: SMU
-    organization_url: ''
-    title: Lee Kuan Yew Global Business Plan Competition Winner (3 out of 550)
-    url: '' 
-  - certificate_url: 
-    date_end: ''
-    date_start: '2014-09-01'
-    description: ''
-    organization: NUS
-    organization_url: ''
-    title: NUS Research Scholarship
-    url: '' 
 
 design:
   columns: '1'
