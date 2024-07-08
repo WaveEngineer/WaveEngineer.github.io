@@ -1,4 +1,5 @@
 ---
+
 widget: pages
 title: News
 # This file represents a page section.
@@ -11,6 +12,5 @@ weight: 20
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
-design:
-  columns: "1"
+
 ---
