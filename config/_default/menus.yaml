@@ -20,9 +20,9 @@ main:
     url: '#accomplishments'
     weight: 50
   - name: Opening
-    url: '#openings'
+    url: openings
     weight: 60
   - name: Contact
-    url: '#contact'
+    url: contact
     weight: 70
 
