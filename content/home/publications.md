@@ -1,11 +1,11 @@
 ---
-
-widget: pages
 title: Publications
-# This file represents a page section.
-headless: true
 
-# Order that this section appears on the page.
-weight: 40
+# Listing view
+view: citation
 
+# Optional banner image (relative to `assets/media/` folder).
+banner:
+  caption: ''
+  image: ''
 ---
