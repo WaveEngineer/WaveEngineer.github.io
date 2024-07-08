@@ -1,6 +1,6 @@
 ---
 draft: false
-url_pdf: 10.1109/TIM.2016.2620778
+doi: 10.1109/TIM.2016.2620778
 title: Millimeter wave reflectometry and imaging for noninvasive diagnosis of skin burn injuries
 publication_types:
   - "1"
